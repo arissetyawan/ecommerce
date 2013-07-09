@@ -1,4 +1,4 @@
-# E-Commerce Application using Laravel v4
+# E-Commerce Application using Laravel
 
 At this stage this is just an attempt to make a simple e-commerce site, using
 Laravel v4, the aim is to make something very similar to what can be acheived
