@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost',
+	'url' => 'http://ecommerce.dev',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'key' => 'YourSecretKey!!!',
+	'key' => 'cs0oKCcjmbZb3oW3Pl2KX3mgiEAxTSiy',
 
 	/*
 	|--------------------------------------------------------------------------
